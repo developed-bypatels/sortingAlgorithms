@@ -1,7 +1,7 @@
 # sortingAlgorithms
 Evaluated the Sort Algorithms that were presented in class for efficiency. Sort methods (bubbleSort, selectionSort, insertionSort, mergeSort and quickSort) that are to be evaluated. Added code to each of the methods to count the number of comparisons required to completely sort the data. Ensured that each generate has used the same data for each sort. 
 
-![alt text](https://github.com/prerakpatelca/mathematicalOperationsStack/blob/master/Screen%20Shot%202020-12-26%20at%204.17.24%20PM.png)
+![alt text](https://github.com/prerakpatelca/sortingAlgorithms/blob/master/Screen%20Shot%202020-12-26%20at%204.17.24%20PM.png)
 
 # List in order (fastest to slowest) your selection of algorithm to use when the sort contain 25 elements.  
 As per my obervation on sorting 25 elements through different algorithms 
